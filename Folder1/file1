@@ -1,3 +1,19 @@
 File1 content in Folder1
+<<<<<<< HEAD
 First commit 
 Second commit for rebase
+=======
+<<<<<<< HEAD
+First commit 
+Second commit for rebase
+=======
+<<<<<<< HEAD
+First commit 
+Second commit for rebase
+=======
+First commit in Test Branch
+>>>>>>> test
+
+Second Commit in Test Branch
+>>>>>>> 6b5f24ad1e9fa4e76cc42de8ca60d8c3d8ae376a
+>>>>>>> f2e39840ba735999a2d1bddc425e34de5964b7e5
