@@ -1,3 +1,7 @@
 File1 content in Folder1
+<<<<<<< HEAD
 First commit 
 Second commit for rebase
+=======
+First commit in Test Branch
+>>>>>>> test
